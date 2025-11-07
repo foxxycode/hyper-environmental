@@ -7,8 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.hyper-environmental]
 path = 'contracts/hyper-environmental.clar'
-clarity_version = 3
-epoch = 3.0
+clarity_version = 2
+epoch = 2.4
 [repl.analysis]
 passes = ['check_checker']
 
